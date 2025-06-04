@@ -1,0 +1,13 @@
+Nama: Rio Ferdinand
+Proyek: Workflow CI - Breast Cancer Prediction (Laskar AI Bootcamp)
+
+Deskripsi:
+Saya telah membuat struktur folder Workflow CI dengan folder MLProject yang berisi:
+- modelling.py (script pelatihan model dengan MLflow autolog)
+- MLProject (file konfigurasi MLflow Project)
+- conda.yaml (dependensi untuk environment)
+- breast_cancer_preprocessing/ (folder dataset hasil preprocessing)
+
+Log dan hasil pelatihan model otomatis dapat dilihat melalui MLflow Tracking UI.
+
+Link repository GitHub: https://github.com/rioferdinand14/Workflow-CI
