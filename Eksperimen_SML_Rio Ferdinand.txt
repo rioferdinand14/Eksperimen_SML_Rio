@@ -1,0 +1,17 @@
+Nama: Rio Ferdinand
+Proyek: Modelling - Breast Cancer Prediction (Laskar AI Bootcamp)
+
+Deskripsi:
+Repositori ini berisikan dokumen dan folder sebagai berikut:
+1. Template_Eksperimen_MSML.ipynb
+2. modelling.py
+3. breast_cancer.csv
+4. breast_cancer_preprocessing/
+5. mlruns/
+6. requirements.txt
+7. screenshot_artefak.png
+7. screenshot_dashboard.png
+
+Log dan hasil pelatihan model otomatis dapat dilihat melalui MLflow Tracking UI.
+
+Link repository GitHub: https://github.com/rioferdinand14/Eksperimen_SML_Rio
