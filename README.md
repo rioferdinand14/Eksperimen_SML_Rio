@@ -19,4 +19,5 @@ Eksperimen dilakukan menggunakan Python, Jupyter Notebook, dan MLflow untuk pela
 1. Clone repository:
    ```bash
    git clone https://github.com/rioferdinand14/Eksperimen_SML_Rio.git
-   cd Eksperimen_SML_Rio
+   cd Eksperimen_SML_Rio/modelling
+   pip install -r requirements.txt
